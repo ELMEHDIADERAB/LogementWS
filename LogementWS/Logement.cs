@@ -20,6 +20,8 @@ namespace LogementWS
 
     //ya3ini
 
+    //V3.0
+
       
         public String Id { get; set; }
         public String Description { get; set; }
